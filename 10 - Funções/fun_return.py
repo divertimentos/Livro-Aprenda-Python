@@ -2,8 +2,7 @@ def cube_number(number):
     valor_a_retornar = number * number * number
     return(valor_a_retornar)
 
-    number = cube_number(4)
+    number = cube_number(number)
     print(number)
 
-     
-    #Acho que era pra esta função retornar "64", mas não aconteceu nada no Powershell.
+print(cube_number(3))

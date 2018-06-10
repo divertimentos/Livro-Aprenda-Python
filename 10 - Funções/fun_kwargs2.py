@@ -8,4 +8,6 @@ def print_info(nome, idade, **kwargs):
 
 print_info(nome = "Luiza", idade = 20, nacionalidade = "Brasileira", time = "Ponte Preta")
 
-#A chave "time = Ponte Preta" fui eu quem adicionei. Entendi que o "**kwargs" me possibilita isso. Preciso entender melhor esse conceito.
+#A chave "time = Ponte Preta" fui eu quem adicionei. 
+# Entendi que o "**kwargs" me possibilita isso. 
+# Preciso entender melhor esse conceito.
